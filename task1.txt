@@ -1,0 +1,14 @@
+Task 1:
+Terminal App - Windows Terminal by Microsoft Corporation
+Version 1.14.2281.0 from Microsoft Store
+
+Git Version Control - git
+Version 2.37.3 64-Bit
+C:\Program Files\Git
+
+NodeJS and NPM
+Version 16.17.1 LTS (npm Version 8.15.0)
+C:\Program Files\nodejs\
+
+Text Editor - Notepad
+Version 21H2 (OS Build 19044.1889)
